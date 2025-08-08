@@ -32,6 +32,6 @@ Matplotlib – Visualization
 
 5 - Tune Threshold & Explain Sigmoid Function –
 
-Adjusted decision threshold to improve performance.
+ * Adjusted decision threshold to improve performance.
 
-Illustrated and explained the sigmoid curve for probability prediction.
+ * Illustrated and explained the sigmoid curve for probability prediction.
