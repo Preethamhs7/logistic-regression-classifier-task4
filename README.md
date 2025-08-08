@@ -16,21 +16,21 @@ Scikit-learn – Model training & evaluation
 Matplotlib – Visualization
 
 🔍 Steps Followed (Mini Guide Applied)
-Choose a binary classification dataset – Selected Breast Cancer Wisconsin Dataset.
+1 - Choose a binary classification dataset – Selected Breast Cancer Wisconsin Dataset.
 
-Train/Test Split & Standardization – Split data into training (80%) and testing (20%) sets, standardized features using StandardScaler.
+2 - Train/Test Split & Standardization – Split data into training (80%) and testing (20%) sets, standardized features using StandardScaler.
 
-Fit Logistic Regression Model – Used LogisticRegression() from scikit-learn.
+3 - Fit Logistic Regression Model – Used LogisticRegression() from scikit-learn.
 
-Evaluate Model –
+4 - Evaluate Model –
 
-Confusion Matrix
+ * Confusion Matrix
 
-Precision & Recall
+ * Precision & Recall
 
-ROC-AUC Score and ROC Curve visualization
+ * ROC-AUC Score and ROC Curve visualization
 
-Tune Threshold & Explain Sigmoid Function –
+5 - Tune Threshold & Explain Sigmoid Function –
 
 Adjusted decision threshold to improve performance.
 
